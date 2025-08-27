@@ -13,3 +13,13 @@
 - Gerenciamento de ambiente
 - Integração contínua
 - Repositório de imagens
+
+**Network**
+- O docker cria redes virtuais para conexão entre diferentes containers
+
+**Docker Compose**
+- Gerenciador de containers do docker, containeres, redes e volumes
+- Simplifica o processo de configuração e execução
+
+**estudar**
+- curl
